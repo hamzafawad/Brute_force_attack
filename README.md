@@ -10,3 +10,4 @@ from PyQt5.QtWidgets import *
 from PyQt5.QtGui import *
 from PyQt5.uic import loadUi
 from random import *
+![attack](https://user-images.githubusercontent.com/125154067/218303967-6b42eb6d-4f59-41fb-bcbe-025c3625ce86.jpg)
